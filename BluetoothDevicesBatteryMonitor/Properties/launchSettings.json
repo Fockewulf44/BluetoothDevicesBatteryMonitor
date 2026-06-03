@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BluetoothDevicesBatteryMonitor (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "BluetoothDevicesBatteryMonitor (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
